@@ -1,0 +1,25 @@
+body{
+    background-color:beige;
+  }
+
+hr{
+ background-color:white;
+  width: 30%;
+  border-style: dotted none none;
+}
+
+h1{
+    color: forestgreen;
+}
+
+h2{
+    color: forestgreen;
+}
+
+h3{
+    color: forestgreen;
+}
+
+.orange{
+    background-color: brown;
+}
